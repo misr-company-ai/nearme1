@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "33125654005",
+    "project_id": "itai-continues",
+    "storage_bucket": "itai-continues.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33125654005:android:b06b24975fa7329cef14bc",
+        "android_client_info": {
+          "package_name": "com.Itai_continues.ar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANW7FxddnLQHa-JnhZQrs-o3i2LPOtM7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33125654005:android:1d373b45388533deef14bc",
+        "android_client_info": {
+          "package_name": "com.omarabdelaziz.nearme"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANW7FxddnLQHa-JnhZQrs-o3i2LPOtM7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
